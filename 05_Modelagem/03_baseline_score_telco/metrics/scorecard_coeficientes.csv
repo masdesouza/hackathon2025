@@ -1,0 +1,7 @@
+feature,coeficiente,erro_padrao,z_value,p_value,efeito_pct,significativo,interpretacao
+const,-1.342976,0.002371,-566.519821,0.000000,-73.893248,True,Intercepto
+SCORE_02,-0.823737,0.004164,-197.810282,0.000000,-56.121136,True,Reduz 56.1% risco
+var_93,-0.384496,0.014402,-26.697588,0.000000,-31.920646,True,Reduz 31.9% risco
+SCORE_01,-0.334371,0.005002,-66.851365,0.000000,-28.421172,True,Reduz 28.4% risco
+var_35,0.107020,0.008572,12.484770,0.000000,11.295614,True,Aumenta 11.3% risco
+var_73,-0.088635,0.012664,-6.998845,0.000000,-8.482084,True,Reduz 8.5% risco

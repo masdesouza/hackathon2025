@@ -1,0 +1,21 @@
+feature,coeficiente,erro_padrao,z_value,p_value,odds_ratio,significativo_5pct,impacto_negocio
+vlr_medio_real_woe,0.234655,0.036017,6.515059,0.000000,1.264473,True,Aumenta 26.4% chance
+flag_mig2_Aquisição,0.207152,0.009891,20.944311,0.000000,1.230169,True,Aumenta 23.0% chance
+var_35_woe,0.103348,0.015691,6.586256,0.000000,1.108877,True,Aumenta 10.9% chance
+FLAG_var_17,0.085086,0.012770,6.662722,0.000000,1.088811,True,Aumenta 8.9% chance
+var_09_9,0.044835,0.010522,4.261256,0.000020,1.045856,True,Aumenta 4.6% chance
+var_05_1,0.026948,0.009056,2.975826,0.002922,1.027315,True,Aumenta 2.7% chance
+sum_vlr_total_bonus_u6m_woe,-0.115605,0.024151,-4.786776,0.000002,0.890827,True,Reduz 10.9% chance
+sum_vlr_total_real_u3m_woe,-0.189109,0.025702,-7.357805,0.000000,0.827696,True,Reduz 17.2% chance
+var_93_woe,-0.194510,0.029995,-6.484649,0.000000,0.823238,True,Reduz 17.7% chance
+SCORE_01_woe,-0.231866,0.009475,-24.472575,0.000000,0.793053,True,Reduz 20.7% chance
+mean_pct_rec_sos_u12m_woe,-0.248703,0.016078,-15.468369,0.000000,0.779811,True,Reduz 22.0% chance
+sum_vlr_total_real_u12m_woe,-0.285597,0.020555,-13.894375,0.000000,0.751565,True,Reduz 24.8% chance
+qtd_rec_sos_u12m_woe,-0.298713,0.017520,-17.049878,0.000000,0.741772,True,Reduz 25.8% chance
+std_pct_rec_com_bonus_u9m_woe,-0.439895,0.030573,-14.388430,0.000000,0.644104,True,Reduz 35.6% chance
+qtd_meses_uso_recarga_adicional_controle_u9m_woe,-0.444161,0.024745,-17.949464,0.000000,0.641362,True,Reduz 35.9% chance
+vlr_total_real_woe,-0.520325,0.031955,-16.282917,0.000000,0.594327,True,Reduz 40.6% chance
+mean_gap_medio_recarga_u1m_woe,-0.522597,0.036900,-14.162447,0.000000,0.592979,True,Reduz 40.7% chance
+SCORE_02_woe,-0.802115,0.007913,-101.367226,0.000000,0.448380,True,Reduz 55.2% chance
+sum_vlr_recarga_u3m_woe,-0.926192,0.057864,-16.006251,0.000000,0.396059,True,Reduz 60.4% chance
+const,-1.482840,0.007990,-185.597316,0.000000,0.226992,True,Reduz 77.3% chance

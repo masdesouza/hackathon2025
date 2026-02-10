@@ -1,0 +1,36 @@
+{
+    "modelo": "Regressao_Logistica_WoE",
+    "timestamp": "2026-02-05 15:17:54",
+    "n_variaveis": 9,
+    "variaveis": [
+        "SCORE_02",
+        "SCORE_01",
+        "var_35",
+        "var_73",
+        "FLAG_var_17",
+        "var_93",
+        "var_05_1",
+        "var_09_9",
+        "flag_mig2_Aquisi\u00e7\u00e3o"
+    ],
+    "train": {
+        "auc": 0.7346940479289956,
+        "gini": 0.46938809585799124,
+        "n_obs": 380764
+    },
+    "val": {
+        "auc": 0.7242367947449799,
+        "gini": 0.44847358948995986,
+        "ks": 0.33388619408437853,
+        "n_obs": 130148
+    },
+    "estabilidade": {
+        "delta_gini": 0.020914506368031383,
+        "status": "OK"
+    },
+    "fit_stats": {
+        "aic": 344366.99834551255,
+        "bic": 344583.99704630487,
+        "pseudo_r2": 0.11430106344124469
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "modelo": "Regressao_Logistica_WoE_Statsmodels",
+    "timestamp": "2026-02-05 04:06:40",
+    "features_utilizadas": [
+        "SCORE_02",
+        "SCORE_01",
+        "var_35",
+        "var_73",
+        "FLAG_var_17",
+        "var_93",
+        "var_05_1",
+        "var_09_9",
+        "flag_mig2_Aquisi\u00e7\u00e3o"
+    ],
+    "n_features": 9,
+    "n_obs_train": 1269214,
+    "n_obs_val": 433825,
+    "taxa_fpd_train": 0.20740946759175363,
+    "taxa_fpd_val": 0.20843197141704603,
+    "preprocessamento": "WOE_Sem_Padronizacao",
+    "train": {
+        "auc": 0.7206916486477974,
+        "gini": 0.4413832972955949,
+        "ks": 0.3303760876450421
+    },
+    "val": {
+        "auc": 0.7125517559499455,
+        "gini": 0.42510351189989093,
+        "ks": 0.31778311821175104
+    },
+    "diferenca_gini": 0.01627978539570396,
+    "statsmodels": {
+        "aic": 1166248.8223203884,
+        "bic": 1166369.3614040804,
+        "log_likelihood": -583114.4111601942,
+        "pseudo_r2": 0.10004733299405777,
+        "converged": true,
+        "iterations": 0
+    }
+}

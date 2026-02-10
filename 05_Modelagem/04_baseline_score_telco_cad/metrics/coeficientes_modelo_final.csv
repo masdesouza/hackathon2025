@@ -1,0 +1,11 @@
+feature,coeficiente,erro_padrao,z_value,p_value,odds_ratio,significativo_5pct,impacto_negocio
+flag_mig2_Aquisição,0.121894,0.016169,7.538657,0.000000,1.129635,True,Aumenta 13.0% chance
+var_35,0.115692,0.008607,13.441699,0.000000,1.122650,True,Aumenta 12.3% chance
+var_05_1,-0.038308,0.011747,-3.261114,0.001110,0.962416,True,Reduz 3.8% chance
+var_73,-0.065507,0.011580,-5.657098,0.000000,0.936592,True,Reduz 6.3% chance
+var_09_9,-0.095763,0.012560,-7.624348,0.000000,0.908679,True,Reduz 9.1% chance
+FLAG_var_17,-0.183604,0.010646,-17.246724,0.000000,0.832265,True,Reduz 16.8% chance
+var_93,-0.240752,0.016228,-14.835461,0.000000,0.786036,True,Reduz 21.4% chance
+SCORE_01,-0.298381,0.005065,-58.911128,0.000000,0.742019,True,Reduz 25.8% chance
+SCORE_02,-0.831931,0.004277,-194.512842,0.000000,0.435208,True,Reduz 56.5% chance
+const,-1.342461,0.002375,-565.177271,0.000000,0.261202,True,Reduz 73.9% chance

@@ -1,0 +1,7 @@
+feature,coeficiente,erro_padrao,z_value,p_value,odds_ratio,significativo_5pct,impacto_negocio
+var_35,0.107020,0.008572,12.484770,0.000000,1.112956,True,Aumenta 11.3% chance
+var_73,-0.088635,0.012664,-6.998845,0.000000,0.915179,True,Reduz 8.5% chance
+SCORE_01,-0.334371,0.005002,-66.851365,0.000000,0.715788,True,Reduz 28.4% chance
+var_93,-0.384496,0.014402,-26.697588,0.000000,0.680794,True,Reduz 31.9% chance
+SCORE_02,-0.823737,0.004164,-197.810282,0.000000,0.438789,True,Reduz 56.1% chance
+const,-1.342976,0.002371,-566.519821,0.000000,0.261068,True,Reduz 73.9% chance
